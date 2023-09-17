@@ -1,0 +1,7 @@
+.cardContainer:hover #add-cart-button{
+    display: flex;
+    transition: all 3.4s ease-in-out cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    
+
+   
+}
